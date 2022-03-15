@@ -1,6 +1,6 @@
 |  Name   | Contract  | Market  |
 |  ----  | ----  | ----  |
-| Corruptions | 0x5BDf397bB2912859Dbd8011F320a222f79A28d2E | (opensea)[https://opensea.io/collection/corruption-s] |
-| AsciiPunks  | 0x5283Fc3a1Aac4DaC6B9581d3Ab65f4EE2f3dE7DC | (opensea)[https://opensea.io/collection/asciipunks-v2] |
-| ChainFaces Arena  | 0x93a796B1E846567Fe3577af7B7BB89F71680173a | (opensea)[https://opensea.io/collection/chainfaces-arena] |
+| Corruptions | [etherscan](https://etherscan.io/address/0x5bdf397bb2912859dbd8011f320a222f79a28d2e#code) | [opensea](https://opensea.io/collection/corruption-s) |
+| AsciiPunks  | [etherscan](https://etherscan.io/address/0x5283fc3a1aac4dac6b9581d3ab65f4ee2f3de7dc#code) | [opensea](https://opensea.io/collection/asciipunks-v2) |
+| ChainFaces Arena  | [etherscan](https://etherscan.io/address/0x93a796b1e846567fe3577af7b7bb89f71680173a#code) | [opensea](https://opensea.io/collection/chainfaces-arena) |
 
